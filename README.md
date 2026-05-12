@@ -2,7 +2,7 @@
 
 # `XNL` - XNOR Logic Board
 
-The `XNL` is a board with an [CD4077](#additional-information) or any other 4-channel `XNOR` gate driver. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to `XNOR` signals from buttons, switches or any other logic board.
+The `XNL` is a board with an [CD4077](#additional-information) or any other 4-channel `XNOR` gate driver that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to `XNOR` signals from buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
